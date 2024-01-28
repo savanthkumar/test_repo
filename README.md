@@ -7,3 +7,4 @@ changes locally
 change made by locallyyyy
 its change by savanth in locally
 change in remote made by savanth
+for fetch function
